@@ -1,5 +1,7 @@
 # 🤖 CodeMentorGPT — Your Open-Source AI Coding Mentor
 
+🚀 [**Try CodeMentorGPT on Hugging Face →**](https://hf.co/chat/assistant/6863d0f0676428ffdf9019b5)
+
 ![CodeMentorGPT Banner](./banner.png) <!-- Optional: Add your assistant screenshot or branding banner -->
 
 **CodeMentorGPT** is an open-source AI assistant built using [Hugging Face Chat Assistants](https://huggingface.co/chat/assistant/6863d0f0676428ffdf9019b5) and powered by the Qwen/Qwen3-235B-A22B LLM.

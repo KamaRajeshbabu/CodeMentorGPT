@@ -1,58 +1,58 @@
-# 🤖 CodeMentorGPT — Your Open-Source AI Coding Mentor
+# 🧠 CodeMentorGPT — Your AI Coding Partner
 
-🚀 [**Try CodeMentorGPT on Hugging Face →**](https://hf.co/chat/assistant/6863d0f0676428ffdf9019b5)
+<p align="center">
+  <img src="./Tech%20Innovation%20in%20Simple%20Shapes.png" alt="CodeMentorGPT Banner" width="100%">
+</p>
 
-[CodeMentorGPT Banner](./Tech%20Innovation%20in%20Simple%20Shapes.png)
-
-
-**CodeMentorGPT** is an open-source AI assistant built using [Hugging Face Chat Assistants](https://huggingface.co/chat/assistant/6863d0f0676428ffdf9019b5) and powered by the Qwen/Qwen3-235B-A22B LLM.
-
-🧠 It acts as a **Python mentor, debugger, and learning guide** for aspiring coders, students, and developers building real-world projects.
+> “Your personal AI-powered coding mentor — built with Hugging Face Chat Assistants, Qwen 235B, and LangChain magic.”
 
 ---
 
-## 🚀 Features
+## 🚀 Overview
 
-- 🧑‍🏫 Explains Python concepts like a mentor
-- 🐞 Helps debug code step by step
-- 📦 Assists with project planning and GitHub repo structuring
-- 💬 Friendly, professional tone with mentor vibes
-- 🔊 Text-to-speech responses (optional)
-- 🛠️ Built-in Python Code Execution tool (experimental)
+**CodeMentorGPT** is an open-source AI assistant designed for developers, students, and tech enthusiasts who want expert help with Python programming, debugging, and building real-world projects.
 
----
-
-## 🛠️ Tech Stack
-
-- **Platform**: Hugging Face Chat Assistant
-- **Model**: Qwen/Qwen3-235B-A22B
-- **Tools Enabled**: Python Executor, Text-to-Speech, Calculator
-- **Prompt Design**: Humanized system prompt for Gen-Z developer mentorship
+Built on the [Qwen/Qwen3-235B-A22B](https://huggingface.co/Qwen/Qwen3-235B-A22B) model and integrated with Hugging Face’s Chat Assistant platform, it delivers:
+- 🧑‍🏫 Step-by-step Python explanations
+- 🐞 Debugging assistance
+- 🧪 Project guidance & idea validation
+- 🛠️ Tools for voice, search, and code execution
 
 ---
 
-## 📈 Live Demo
+## 🎯 Purpose & Target Audience
 
-Try it out here:  
-👉 https://huggingface.co/chat/assistant/6863d0f0676428ffdf9019b5
-
----
-
-## 🗺️ Future Roadmap
-
-- [ ] Add GitHub Repo Analyzer (via API)
-- [ ] Integrate VS Code Copilot features
-- [ ] Build Chrome Extension for instant usage
-- [ ] Accept community PRs for tool plugins and prompt variants
+- 💡 **Beginners in Python** — learn from a mentor-like AI
+- 👨‍💻 **Students & engineers** — clarify concepts & debug faster
+- 📊 **Researchers & hackers** — get ideation and implementation support
+- 🛠️ **Builders & makers** — turn ideas into functional code with guidance
 
 ---
 
-## 📣 Community
+## ✨ Features
 
-CodeMentorGPT is part of an open-source initiative to make AI mentorship accessible and developer-focused.  
-Contributions, feedback, and feature ideas are welcome.
+- 🧠 Expert-level Python knowledge (DSA, OOP, libraries, APIs)
+- 💬 Natural conversation interface
+- 🔍 Web search & documentation lookup (tool-enabled)
+- 🎙️ Text-to-speech support
+- 💾 Code execution environment (Python sandbox)
+- 🦾 Friendly tone with a mentor-style personality
 
 ---
 
-## 🧑‍💻 Built With Love by [Kama Rajeshbabu](https://www.linkedin.com/in/kamarajeshbabu)
+## 🧩 Tech Stack
 
+| Component      | Technology                         |
+|----------------|-------------------------------------|
+| Model          | Qwen/Qwen3-235B-A22B               |
+| Platform       | Hugging Face Chat Assistant        |
+| Tools Used     | Python Code Executor, Web Search, TTS |
+| Prompt Engine  | Custom persona-based system prompt |
+| Avatar Style   | Mentor Fox/Owl with tech glasses 🦊👓 |
+
+---
+
+## 🔧 System Prompt Snapshot
+
+```text
+You are CodeMentorGPT, a professional AI mentor specialized in Python. You are warm, helpful, and practical. You debug, teach, and guide projects with code examples. Always maintain a friendly and mentoring tone.
